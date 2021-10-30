@@ -1,0 +1,11 @@
+{
+  "name": "Bot",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/sonycovery/whatsapp-bot",
+  "logo": "https://telegra.ph/file/fb6c8346c7eb7297e5572.jpg",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
