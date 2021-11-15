@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['628988293493'] // Letakan nomor kamu disini
+global.owner = ['919556416715'] // Letakan nomor kamu disini
 global.mods = [] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
@@ -31,7 +31,7 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Emilia BOT'
+global.packname = 'WHATSAPP BOT'
 global.author = 'bot.wibusoft.cloud'
 
 global.wait = '_𝐖𝐚𝐢𝐭 𝐚 𝐦𝐢𝐧𝐮𝐭𝐞 ⏳_'
